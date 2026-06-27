@@ -22,11 +22,6 @@ const links = [
     icon: 'mdi-briefcase',
   },
   {
-    label: 'Dribbble',
-    href: 'https://dribbble.com/davidketchum',
-    icon: 'mdi-dribbble',
-  },
-  {
     label: 'LinkedIn',
     href: 'https://linkedin.com/in/david-ketchum',
     icon: 'mdi-linkedin',
